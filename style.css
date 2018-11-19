@@ -1,0 +1,83 @@
+body {
+    background: #f6704b;
+}
+.location {
+    width: 380px;
+    height: 100px;
+    background: #620808;
+    margin: 0 auto;
+    color: #ffe9c1;
+    font-size: 30px;
+    cursor: pointer;
+}
+.music{
+    width: 380px;
+    height: 100px;
+    background: #a53f3f;
+    margin: 0 auto; 
+    color: #f4ce74;
+    font-size: 30px;
+    cursor: pointer;
+}
+.notes{
+    width: 380px;
+    height: 100px;
+    background: #f4ce74;
+    margin: 0 auto; 
+    color: #620808;
+    font-size: 30px;
+    cursor: pointer;
+}
+.books {
+    width: 380px;
+    height: 100px;
+    background: #ffe9c1;
+    margin: 0 auto; 
+    color: #a53f3f;
+    font-size: 30px;
+    cursor: pointer;
+}
+.tendances{
+    width: 380px;
+    height: 100px;
+    background: #d5441c;
+    margin: 0 auto; 
+    color: #ffe9c1;
+    font-size: 30px;
+    cursor: pointer;
+}
+.title{
+    margin: 0;
+    padding-top: 34px;
+    text-align: center;
+}
+.down1 {
+    height: 160px;
+    width: 380px;
+    margin: 0 auto;
+    display: none;
+}
+.down2{
+    height: 160px;
+    width: 380px;
+    margin: 0 auto;
+    display: none;
+}
+.down3{
+    height: 160px;
+    width: 380px;
+    margin: 0 auto;
+    display: none;
+}
+.down4 {
+    height: 160px;
+    width: 380px;
+    margin: 0 auto;
+    display: none;
+}
+.down5{
+    height: 160px;
+    width: 380px;
+    margin: 0 auto;
+    display: none;
+}
